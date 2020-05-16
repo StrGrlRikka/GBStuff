@@ -210,4 +210,3 @@ ThisIsALabel1:
     ; Doesn't affect flags
     inc sp
     dec sp
-    ;
